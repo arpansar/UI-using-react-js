@@ -1,2 +1,2 @@
 # UI-using-react-js
-The UI will allow the user to enter a few inputs, do some basic validations on the input fields and let the user proceed if all the validation checks are successful.
+The UI will allow the user to enter a few inputs, do some basic validations on the input fields and let the user proceed if all the validation checks are successful.It will check username,email and date of birth validation.user name should be 6-10 characters, alphanumeric (no special characters) and should not start with a number.Email should be a valid email address.Age should be greater than or equal to 18.Submit button get enabled once all the validations are successful. Reset button clears all the input fields as well as error messages (if any) on clicking it.
